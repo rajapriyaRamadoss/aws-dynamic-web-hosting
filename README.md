@@ -74,6 +74,23 @@ AWS | Cloud Networking | Linux | Apache | IAM | EC2 | Load Balancing | Auto Scal
 - Improve IAM permissions using least privilege.
 - Add automated scaling policies and more comprehensive monitoring.
 
+## Project Screenshots
+
+### 1. EC2 Web Servers
+![EC2 Instances](screenshots/ec2-instance.png)
+
+### 2. Application Load Balancer
+![Application Load Balancer](screenshots/loadbalancer.png)
+
+### 3. Target Group Health
+![Target Group Health](screenshots/target-groups.png)
+
+### 4. Auto Scaling Group
+![Auto Scaling Group](screenshots/ASG.png)
+
+### 5. Lambda Function Test
+![Lambda Test Success](screenshots/lambda-test-successful.png)
+
 ## Author
 
 Rajapriya R
